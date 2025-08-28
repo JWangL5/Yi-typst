@@ -3,7 +3,7 @@
 A flexible package to render and display [hexagram/I Ching](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching) in Typst.
 
 ```typst
-#import "@preview/yi:0.1.0"
+#import "@preview/yi:0.1.0": gua
 #gua("110") + #gua("010") = #gua("010110") 水泽节
 ```
 
